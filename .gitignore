@@ -1,0 +1,4 @@
+*.gem
+Gemfile.lock
+.idea
+.DS_Store
